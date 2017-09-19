@@ -1,0 +1,10 @@
+C:\soursec\qaz\CompilerWriting\bin\Debug\b2cTranslator.exe
+C:\soursec\qaz\CompilerWriting\bin\Debug\b2cTranslator.pdb
+C:\soursec\qaz\CompilerWriting\obj\Debug\ResolveAssemblyReference.cache
+C:\soursec\qaz\CompilerWriting\obj\Debug\b2cTranslator.exe
+C:\soursec\qaz\CompilerWriting\obj\Debug\b2cTranslator.pdb
+D:\Разработки\Программы_Сторонние\b2cTranslator\b2cTranslator\obj\Debug\b2cTranslator.exe
+D:\Разработки\Программы_Сторонние\b2cTranslator\b2cTranslator\obj\Debug\b2cTranslator.pdb
+D:\Разработки\Программы_Сторонние\b2cTranslator\b2cTranslator\bin\Debug\b2cTranslator.exe
+D:\Разработки\Программы_Сторонние\b2cTranslator\b2cTranslator\bin\Debug\b2cTranslator.pdb
+D:\Разработки\Программы_Сторонние\b2cTranslator\b2cTranslator\obj\Debug\ResolveAssemblyReference.cache
